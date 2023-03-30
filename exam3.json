@@ -1,0 +1,222 @@
+[
+  {
+  "question": "Statement A: The ARAS stands for Arousal Reticular Activating System. Statement B: The Neomamillian brain is also part of the ARAS",
+  "options": {
+  "A": "statement A and B are both correct.",
+  "B": "statement A and B are both incorrect.",
+  "C": "statement A is correct, statement B is incorrect.",
+  "D": "statement A is incorrect, statement B is correct."
+  },
+  "correctAnswer": "D",
+  "explanation": ""
+  },
+  {
+  "question": "The extrapyramidal system includes among others:",
+  "options": {
+  "A": "the primary motor area",
+  "B": "the basal ganglia",
+  "C": "the cerebellum",
+  "D": "b + c are correct"
+  },
+  "correctAnswer": "D",
+  "explanation": ""
+  },
+  {
+  "question": "A hallmark of agnosia could be:",
+  "options": {
+  "A": "one cannot execute a movement on command",
+  "B": "a mild paresis",
+  "C": "not being able to read (alexia)",
+  "D": "a disturbance in the primary occipital area"
+  },
+  "correctAnswer": "C",
+  "explanation": ""
+  },
+  {
+  "question": "A disturbance in the right secondary auditory cortex may result in:",
+  "options": {
+  "A": "amusia",
+  "B": "aprosodia",
+  "C": "a disturbance in localizing sounds in space",
+  "D": "all answers are correct"
+  },
+  "correctAnswer": "D",
+  "explanation": ""
+  },
+  {
+  "question": "The largest spurt in brain growth takes place:",
+  "options": {
+  "A": "before the child is 1.5 years of age",
+  "B": "between 1.5 and 5 years of age",
+  "C": "after 5 years of age",
+  "D": "every 3 months"
+  },
+  "correctAnswer": "A",
+  "explanation": ""
+  },
+  {
+  "question": "The chance of recovery from brain damage is the smallest when brain damage occurs:",
+  "options": {
+  "A": "before the 1st year of live",
+  "B": "between 1st and 5th year of life",
+  "C": "after the 5th year of live",
+  "D": "a + c are correct"
+  },
+  "correctAnswer": "D",
+  "explanation": ""
+  },
+  {
+  "question": "If one switches off the left hemisphere by Sodium Amobarbital than:",
+  "options": {
+  "A": "the patient has a paresis at the left side of the body",
+  "B": "the right hand may show an apraxia",
+  "C": "the left hand may show an apraxia",
+  "D": "a neglect may occur"
+  },
+  "correctAnswer": "C",
+  "explanation": ""
+  },
+  {
+  "question": "To retrieve information from memory, the______________plays an important role",
+  "options": {
+  "A": "medial temporal lobe",
+  "B": "parietal lobe",
+  "C": "right prefrontal cortex",
+  "D": "left prefrontal cortex"
+  },
+  "correctAnswer": "C",
+  "explanation": ""
+},
+  {
+  "question": "Patient H.M. is still able to learn implicitly, because:",
+  "options": {
+  "A": "his hippocampus is intact",
+  "B": "his amygdala is intact",
+  "C": "his basal ganglia are intact",
+  "D": "a + b are correct"
+  },
+  "correctAnswer": "C",
+  "explanation": ""
+  },
+  {
+  "question": "The role of the intraparietal sulcus in face recognition is:",
+  "options": {
+  "A": "spatial oriented attention",
+  "B": "unchangeable aspects in the face",
+  "C": "changeable aspects in the face",
+  "D": "to determine personal identity"
+  },
+  "correctAnswer": "A",
+  "explanation": ""
+  },
+  {
+  "question": "One of the sources of the cholinergic system is localized in:",
+  "options": {
+  "A": "the basal ganglia.",
+  "B": "the hippocampus.",
+  "C": "the basal forebrain",
+  "D": "the dorsal raphe nucleus"
+  },
+  "correctAnswer": "C",
+  "explanation": ""
+  },
+  {
+  "question": "In case of an occlusion of the a. cerebri posterior (PCA):",
+  "options": {
+  "A": "the arm is more affected than the leg",
+  "B": "particularly the motor system will be disturbed",
+  "C": "the patient will primarily suffer from disturbances in vision",
+  "D": "a+b are correct"
+  },
+  "correctAnswer": "C",
+  "explanation": ""
+  },
+  {
+  "question": "Statement A: The ARAS stands for: the Arousal Reticular Ascending System. Statement B: The Paleomammilian brain includes both cortical and subcortical areas",
+  "options": {
+  "A": "statement A and B are both correct.",
+  "B": "statement A and B are both incorrect",
+  "C": "statement A is correct, statement B is incorrect.",
+  "D": "statement A is incorrect, statement B is correct."
+  },
+  "correctAnswer": "D",
+  "explanation": ""
+  },
+  {
+  "question": "The Law of Increasing Lateralization concerns:",
+  "options": {
+  "A": "the higher in the hierarchy, the more difference in function between the right and left Hemisphere",
+  "B": "the older we get, the larger the differences between left and right hemisphere",
+  "C": "the dynamic localization-theory of Luria.",
+  "D": "the construction of the brain (glial cells, astroglial cells, neurons)."
+  },
+  "correctAnswer": "A",
+  "explanation": ""
+  },
+  {
+  "question": "Secondary areas in the frontal lobe include:",
+  "options": {
+  "A": "motor neurons in the spinal cord",
+  "B": "prefrontal cortex",
+  "C": "premotor areas",
+  "D": "orbitofrontal cortex"
+  },
+  "correctAnswer": "C",
+  "explanation": ""
+  },
+  {
+  "question": "When young animals grow up in an enriched environment:",
+  "options": {
+  "A": "the spine density will decrease",
+  "B": "the spine density will increase",
+  "C": "the length of the dendrites will decrease",
+  "D": "b + c are correct"
+  },
+  "correctAnswer": "A",
+  "explanation": ""
+  },
+  {
+  "question": "The hippocampus is situated in:",
+  "options": {
+  "A": "lateral temporal lobe",
+  "B": "medial temporal lobe",
+  "C": "anterior temporal lobe",
+  "D": "prefrontal cortex"
+  },
+  "correctAnswer": "B",
+  "explanation": ""
+  },
+  {
+  "question": "The pyramidal tract:",
+  "options": {
+  "A": "runs from the prefrontal cortex to the cerebellum",
+  "B": "runs from the cortex to the spinal cord",
+  "C": "plays a crucial role in fine hand motor activity",
+  "D": "b + c are correct"
+  },
+  "correctAnswer": "D",
+  "explanation": ""
+  },
+  {
+  "question": "The ARAS can be damaged by:",
+  "options": {
+  "A": "only cortical lesions",
+  "B": "only subcortical lesions",
+  "C": "only prefrontal lesions",
+  "D": "both cortical and subcortical lesions"
+  },
+  "correctAnswer": "D",
+  "explanation": ""
+  },
+  {
+  "question": "A patient shows a severe paresis of the left leg, with a mild paresis of the left arm. The stroke took place in the",
+  "options": {
+  "A": "a. cerebri posterior",
+  "B": "a. cerebri media",
+  "C": "a. cerebri anterior",
+  "D": "a. femoralis"
+  },
+  "correctAnswer": "C",
+  "explanation": ""
+  }
+  ]

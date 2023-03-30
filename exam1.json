@@ -1,0 +1,221 @@
+[
+  {
+  "question": "Which term refers to the front of the brain?",
+  "options": {
+  "A": "Anterior",
+  "B": "Posterior",
+  "C": "Lateral",
+  "D": "Medial"
+  },
+  "correctAnswer": "A",
+  "explanation": "Anterior refers to the front of the brain."
+  },
+  {
+  "question": "What structure provides the primary support and protection for the brain?",
+  "options": {
+  "A": "Meninges",
+  "B": "Cranium",
+  "C": "Cerebrospinal fluid",
+  "D": "Blood-brain barrier"
+  },
+  "correctAnswer": "B",
+  "explanation": "The cranium provides the primary support and protection for the brain."
+  },
+  {
+  "question": "The blood-brain barrier is primarily composed of:",
+  "options": {
+  "A": "Neurons",
+  "B": "Astrocytes",
+  "C": "Endothelial cells",
+  "D": "Microglia"
+  },
+  "correctAnswer": "C",
+  "explanation": "The blood-brain barrier is primarily composed of endothelial cells."
+  },
+  {
+  "question": "What is the main function of cerebrospinal fluid (CSF)?",
+  "options": {
+  "A": "Providing nutrients to the brain",
+  "B": "Removing waste products from the brain",
+  "C": "Cushioning and protecting the brain",
+  "D": "Transmitting neural signals"
+  },
+  "correctAnswer": "C",
+  "explanation": "The main function of cerebrospinal fluid (CSF) is to cushion and protect the brain."
+  },
+  {
+  "question": "Which of the following arteries supplies the largest portion of the cerebrum?",
+  "options": {
+  "A": "Anterior cerebral artery",
+  "B": "Middle cerebral artery",
+  "C": "Posterior cerebral artery",
+  "D": "Basilar artery"
+  },
+  "correctAnswer": "B",
+  "explanation": "The middle cerebral artery supplies the largest portion of the cerebrum."
+  },
+  {
+  "question": "How many ventricles are present in the brain?",
+  "options": {
+  "A": "Two",
+  "B": "Three",
+  "C": "Four",
+  "D": "Five"
+  },
+  "correctAnswer": "C",
+  "explanation": "There are four ventricles present in the brain."
+  },
+  {
+  "question": "The hindbrain is composed of which of the following structures?",
+  "options": {
+  "A": "Cerebellum, pons, and medulla oblongata",
+  "B": "Tectum, tegmentum, and cerebral aqueduct",
+  "C": "Thalamus, hypothalamus, and epithalamus",
+  "D": "Amygdala, hippocampus, and cingulate gyrus"
+  },
+  "correctAnswer": "A",
+  "explanation": "The hindbrain is composed of the cerebellum, pons, and medulla oblongata."
+  },
+  {
+  "question": "What is the primary function of the midbrain?",
+  "options": {
+  "A": "Regulating autonomic functions",
+  "B": "Relaying sensory and motor information",
+  "C": "Planning and executing movement",
+  "D": "Processing emotional and memory-related information"},
+  "correctAnswer": "B",
+"explanation": "The primary function of the midbrain is to relay sensory and motor information."
+},
+{
+"question": "The basal ganglia is a group of nuclei involved in which of the following functions?",
+"options": {
+"A": "Vision",
+"B": "Auditory processing",
+"C": "Motor control",
+"D": "Olfaction"
+},
+"correctAnswer": "C",
+"explanation": "The basal ganglia is a group of nuclei involved in motor control."
+},
+{
+"question": "The hypothalamus is responsible for:",
+"options": {
+"A": "Conscious thought",
+"B": "Sleep regulation",
+"C": "Emotion and memory",
+"D": "Homeostasis"
+},
+"correctAnswer": "D",
+"explanation": "The hypothalamus is responsible for homeostasis, which includes regulating body temperature, hunger, thirst, and other vital functions."
+},
+{
+"question": "The thalamus serves as a relay center for:",
+"options": {
+"A": "Sensory and motor information",
+"B": "Emotions and memory",
+"C": "Learning and cognition",
+"D": "Autonomic functions"
+},
+"correctAnswer": "A",
+"explanation": "The thalamus serves as a relay center for sensory and motor information."
+},
+{
+"question": "The epithalamus primarily contains which structure?",
+"options": {
+"A": "Pineal gland",
+"B": "Hypothalamus",
+"C": "Subthalamic nucleus",
+"D": "Tectum"
+},
+"correctAnswer": "A",
+"explanation": "The epithalamus primarily contains the pineal gland, which is involved in regulating circadian rhythms and producing the hormone melatonin."
+},
+{
+"question": "The limbic system is most associated with:",
+"options": {
+"A": "Motor control",
+"B": "Memory and emotion",
+"C": "Visual processing",
+"D": "Auditory processing"
+},
+"correctAnswer": "B",
+"explanation": "The limbic system is most associated with memory and emotion, including the hippocampus, amygdala, and cingulate gyrus."
+},
+{
+"question": "The term 'rostral' refers to which direction?",
+"options": {
+"A": "Towards the front of the brain",
+"B": "Towards the back of the brain",
+"C": "Towards the top of the brain",
+"D": "Towards the bottom of the brain"
+},
+"correctAnswer": "A",
+"explanation": "Rostral refers to the front of the brain, while caudal refers to the back of the brain."
+},
+{
+"question": "The term 'dorsal' refers to which direction?",
+"options": {
+"A": "Towards the front of the brain",
+"B": "Towards the back of the brain",
+"C": "Towards the top of the brain",
+"D": "Towards the bottom of the brain"
+},
+"correctAnswer": "C",
+"explanation": "Dorsal refers to the top of the brain, while ventral refers to the bottom of the brain."
+},
+{
+"question": "The blood supply to the brain is mainly provided by which artery?",
+"options": {
+"A": "Carotid artery",
+"B": "Vertebral artery",
+"C": "Aorta",
+"D": "Subclavian artery"
+},
+"correctAnswer": "A",
+"explanation": "The blood supply to the brain is mainly provided by the carotid artery and the vertebral artery."
+},
+{
+"question": "The lateral ventricles are connected to the third ventricle through the:",
+"options": {
+"A": "Interventricular foramen",
+"B": "Cerebral aqueduct",
+"C": "Central canal",
+"D": "Foramen of Luschka"
+},
+"correctAnswer": "A",
+"explanation": "The lateral ventricles are connected to the third ventricle through the interventricular foramen."
+},
+{
+"question": "The cerebellum is primarily responsible for:",
+"options": {
+"A": "Coordination of movement",
+"B": "Processing of sensory information",
+"C": "Regulation of autonomic functions",
+"D": "Emotional processing"
+},
+"correctAnswer": "A",
+"explanation": "The cerebellum is primarily responsible for the coordination of movement and maintaining posture and balance."
+},
+{
+"question": "The pons is involved in which of the following functions?",
+"options": {
+"A": "Motor control and coordination",
+"B": "Relay of sensory information",
+"C": "Sleep and arousal",
+"D": "Control of autonomic functions"
+},
+"correctAnswer": "C",
+"explanation": "The pons is involved in sleep and arousal, as well as breathing and other vital functions."
+},
+{
+"question": "The primary function of the medulla oblongata is to:",
+"options": {
+"A": "Control voluntary muscle movements",
+"B": "Process sensory information",
+"C": "Regulate autonomic functions",
+"D": "Coordinate balance and spatial awareness"
+},
+"correctAnswer": "C",
+"explanation": "The primary function of the medulla oblongata is to regulate autonomic functions such as breathing, heart rate, and blood pressure."
+}
+]

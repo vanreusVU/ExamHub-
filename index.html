@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: auto;
+            padding: 2rem;
+            background-color: #f5f5f5;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+        #examsContainer {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 1rem;
+            margin-bottom: 3rem;
+            border-bottom: 2px solid #ccc;
+        }
+        #examsContainer button {
+            margin: 0.5rem;
+            padding: 0.5rem 1rem;
+            font-size: 0.9rem;
+            border-radius: 8px;
+            background-color: #007bff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            transition: all 0.2s ease-in-out;
+            white-space: nowrap;
+        }
+        #examsContainer button:hover {
+            background-color: #0056b3;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transform: translateY(-2px);
+        }
+        .question {
+            margin-bottom: 1rem;
+            background-color: #fff;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+        }
+        button {
+            margin: 0.25rem;
+            padding: 0.5rem;
+            cursor: pointer;
+            border: none;
+            border-radius: 4px;
+            background-color: #6c757d;
+            color: #fff;
+            font-weight: bold;
+        }
+        button:hover {
+            background-color: #5a6268;
+        }
+        .answer {
+            display: none;
+            margin-top: 1rem;
+            margin-bottom: 2rem;
+            padding: 1rem;
+            border-radius: 4px;
+            background-color: #e9ecef;
+        }
+        .question button {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <h1>Practice Questions</h1>
+
+    <div id="examsContainer"></div>
+    <div id="questionsContainer"></div>
+
+    <script>
+      function loadExam(examFile) {
+        fetch(examFile)
+          .then(response => response.json())
+          .then(data => {
+            const questionsContainer = document.getElementById('questionsContainer');
+            questionsContainer.innerHTML = '';
+
+            data.forEach((q, index) => {
+              const questionDiv = createQuestionElement(q, index + 1);
+              questionsContainer.appendChild(questionDiv);
+            });
+          })
+          .catch(error => {
+            console.error('Error fetching exam data:', error);
+          });
+      }
+
+      // Use the previous createQuestionElement and showAnswer functions here
+      function createQuestionElement(questionData, questionNumber) {
+        const questionDiv = document.createElement('div');
+        questionDiv.className = 'question';
+
+        const questionText = document.createElement('p');
+        questionText.textContent = `${questionNumber}. ${questionData.question}`;
+        questionDiv.appendChild(questionText);
+
+        for (const option in questionData.options) {
+          const button = document.createElement('button');
+          button.textContent = `${option}. ${questionData.options[option]}`;
+          button.onclick = () => showAnswer(questionNumber, button, option, questionData.correctAnswer);
+          questionDiv.appendChild(button);
+        }
+
+        const answerDiv = document.createElement('div');
+        answerDiv.className = 'answer';
+        answerDiv.id = `answer${questionNumber}`;
+        answerDiv.innerHTML = `
+          <p><strong>Answer:</strong> ${questionData.correctAnswer}. ${questionData.options[questionData.correctAnswer]}</p>
+          <p>Explanation: ${questionData.explanation}</p>
+        `;
+        questionDiv.appendChild(answerDiv);
+
+        return questionDiv;
+      }
+
+      function showAnswer(questionNumber, button, selectedOption, correctAnswer) {
+        const answer = document.getElementById(`answer${questionNumber}`);
+        answer.style.display = 'block';
+
+        if (selectedOption === correctAnswer) {
+          button.style.backgroundColor = '#28a745'; // Green
+        } else {
+          button.style.backgroundColor = '#dc3545'; // Red
+        }
+      }
+      
+      // Fetch exams data from JSON file
+      fetch('exams.json')
+        .then(response => response.json())
+        .then(data => {
+          const examsContainer = document.getElementById('examsContainer');
+          data.forEach((exam) => {
+            const button = document.createElement('button');
+            button.textContent = exam.name;
+            button.onclick = () => loadExam(exam.file);
+            examsContainer.appendChild(button);
+          });
+        })
+        .catch(error => {
+          console.error('Error fetching exams data:', error);
+        });
+    </script>
+</body>
+</html>

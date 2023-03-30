@@ -1,0 +1,266 @@
+[
+  {
+    "question": "In the mechanism of plasticity ‘homologous area adaptation’, the following processes take place:",
+    "options": {
+      "A": "some areas take on new functions to compensate for loss",
+      "B": "brain uses alternative pathways/strategies for processing in place of a lost ability",
+      "C": "loss of one sensory/cognitive process heightens the remaining senses/processes",
+      "D": "opposite hemisphere takes over sensory/cognitive process"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+  },
+  {
+    "question": "Wernicke’s area is located in:",
+    "options": {
+      "A": "the inferior parietal lobe",
+      "B": "the superior temporal gyrus",
+      "C": "the inferior temporal gyrus",
+      "D": "the superior temporal sulcus (STS)"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "Spatial attention and multimodal sensory integration take place in the:",
+    "options": {
+      "A": "superior parietal lobe",
+      "B": "postcentral gyrus",
+      "C": "inferior parietal lobe",
+      "D": "both a and c"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "What is the output signal during neural transmission:",
+    "options": {
+      "A": "release of neurotransmitters",
+      "B": "receival of messages from other neurons",
+      "C": "sending of information down axon to terminal boutons",
+      "D": "integration of the received message"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "How do neurons change?",
+    "options": {
+      "A": "Epigenetics, Backpropagation and Synaptic pruning",
+      "B": "DNA methylation and histone modification",
+      "C": "Epigenetics, Backpropagation, Synaptic pruning and Mechanisms of neuroplasticity",
+      "D": "None of the above"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+  },
+  {
+    "question": "At which age does a person have the best chance of recovery from brain damage?",
+    "options": {
+      "A": "Before 1 year of age",
+      "B": "Between 1 and 5 years old",
+      "C": "After 5 years of age",
+      "D": "During adulthood"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+  },
+  {
+    "question": "The Greebles experiment tested context dependent changes in which brain area?",
+    "options": {
+      "A": "Fusiform gyrus",
+      "B": "Insula",
+      "C": "Angular gyrus",
+      "D": "Anterior cingulate cortex"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+  },
+  {
+    "question": "Which brain region specialises in more self-related processes than any other?",
+    "options": {
+      "A": "dorsolateral prefrontal cortex (dlPFC)",
+      "B": "medial prefrontal cortex (mPFC)",
+      "C": "Precuneus",
+      "D": "temporal-parietal junction (TPJ)"
+    },
+    "correctAnswer": "B",
+    "explanation": ""
+    },
+    {
+    "question": "What is the default mode network (DMN)?",
+    "options": {
+    "A": "The parts of the brain that are active when a person is doing nothing",
+    "B": "A network of mostly social brain regions",
+    "C": "The parts of the brain that process default (basic) functions",
+    "D": "a and b are correct"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+    },
+    {
+    "question": "Which individual difference does not influence neural processes?",
+    "options": {
+    "A": "Educational level",
+    "B": "Cultural background",
+    "C": "Prior experiences",
+    "D": "None of the above"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+    },
+    {
+    "question": "Which brain area is not a Social Brain Network that we’ve discussed?",
+    "options": {
+    "A": "Amygdala network",
+    "B": "Mentalizing network",
+    "C": "Empathy network",
+    "D": "Conversation network"
+    },
+    "correctAnswer": "D",
+    "explanation": ""
+    },
+    {
+    "question": "Which statement about fragile X syndrome is not correct?",
+    "options": {
+    "A": "Fragile X syndrome is a leading genetic cause of autism.",
+    "B": "A process where a gene called FMR1 produces a protein called FRMP is absent in Fragile X syndrome.",
+    "C": "Females are more severely affected",
+    "D": "Usually diagnosed at 20 months (boys) and 26 months (girls)"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+    },
+    {
+    "question": "The inability to localise/name body parts is called:",
+    "options": {
+    "A": "Anosognosia",
+    "B": "Anosodiaphoria",
+    "C": "Autopagnosia",
+    "D": "Allotopagnosia"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+    },
+    {
+    "question": "What is asomatognosia?",
+    "options": {
+    "A": "A loss of knowledge of one’s body",
+    "B": "A possible outcome of a temporal lobe lesion",
+    "C": "An umbrella term for cognitive difficulties",
+    "D": "All of the above"
+    },
+    "correctAnswer": "A",
+    "explanation": ""
+    },
+    {
+    "question": "A characteristic of visual agnosia could be:",
+    "options": {
+    "A": "not being able to recognize something that you feel",
+    "B": "not being able to see an object",
+    "C": "not being able to recognize an object, while vision is intact",
+    "D": "not being able to recognize an object due to a disturbance in the visual system"
+    },
+    "correctAnswer": "C",
+    "explanation": ""
+    },
+    {
+    "question": "Wernicke’s aphasia is characterised by:",
+    "options": {
+    "A": "loss of grammatical structure and difficulty forming words or sentences, while still being able to understand language",
+    "B": "ability to produce fluent speech, however speech makes no sense and uses non-existent words.",
+    "C": "inability to come up with the correct word, grammar and speech production are unaffected.",
+    "D": "difficulty with producing words and understanding spoken language"
+  },
+  "correctAnswer": "B",
+  "explanation": ""
+  },
+  {
+  "question": "What is not true about the Temporal-Lobe Personality?",
+  "options": {
+  "A": "It is controversial",
+  "B": "It can emerge if someone has temporal lobe epilepsy (TLE)",
+  "C": "It is usually mild",
+  "D": "All TLE patients have at least one of the traits of Temporal-Lobe Personality"
+  },
+  "correctAnswer": "D",
+  "explanation": ""
+  },
+  {
+  "question": "Which symptom do more than 80% of schizophrenic patients experience?",
+  "options": {
+  "A": "Auditory hallucinations",
+  "B": "Visual hallucinations",
+  "C": "Delusions of control",
+  "D": "Alogia"
+  },
+  "correctAnswer": "A",
+  "explanation": ""
+  },
+  {
+  "question": "Why can it be difficult to diagnose multiple sclerosis (MS)?",
+  "options": {
+  "A": "Because the four types of MS have different symptoms",
+  "B": "Because symptoms depend on individual brain differences and lesion locations",
+  "C": "Because the symptoms can only be seen with a brain scan",
+  "D": "MS is easy to diagnose because it has a specific set of symptoms"
+  },
+  "correctAnswer": "B",
+  "explanation": ""
+  },
+  {
+  "question": "Select the symptoms of frontal lobe lesions:",
+  "options": {
+  "A": "Motor alterations",
+  "B": "Poor temporal memory",
+  "C": "Poor social functioning",
+  "D": "All of the above"
+  },
+  "correctAnswer": "D",
+  "explanation": ""
+  },
+  {
+  "question": "Which is the most common type of epilepsy?",
+  "options": {
+  "A": "Temporal Lobe epilepsy (TLE)",
+  "B": "Parietal Lobe epilepsy (PLE)",
+  "C": "Frontal Lobe epilepsy (FLE)",
+  "D": "All types are common"
+  },
+  "correctAnswer": "A",
+  "explanation": ""
+  },
+  {
+  "question": "If your cornea or lens has a different shape than normal, creating two or more image points on the back of the eye, then you have which condition:",
+  "options": {
+  "A": "Near-sightedness",
+  "B": "Far-sightedness",
+  "C": "An astigmatism",
+  "D": "Motion parallax"
+  },
+  "correctAnswer": "C",
+  "explanation": ""
+  },
+  {
+  "question": "Which is not a correct statement about neurodevelopmental disorders?",
+  "options": {
+  "A": "Exposure to toxins can cause neurodevelopmental disorders",
+  "B": "Hormones influence the development of neurodevelopmental disorders",
+  "C": "Growing up in a enriched environment may improve neurodevelopment",
+  "D": "Neurodevelopmental disorders are always inherited"
+  },
+  "correctAnswer": "D",
+  "explanation": ""
+  },
+  {
+  "question": "What is not one of Piaget’s stages:",
+  "options": {
+  "A": "Sensorimotor",
+  "B": "Preoperational",
+  "C": "Concrete operational",
+  "D": "Abstract operational"
+  },
+  "correctAnswer": "D",
+  "explanation": ""
+}
+]
